@@ -25,6 +25,7 @@ def game():
     def check_result():
         if entry.get() == words[word]:
  
+
             # here start time is when the window
             # is opened and end time is when
             # window is destroyed
